@@ -20,6 +20,8 @@ gem "sqlite3", "~> 1.4"
 # https://github.com/jarmo/require_all
 gem "require_all"
 
+#gem 'learn-test', '~> 2.0', '>= 2.0.0'
+
 # These gems will only be used when we are running the application locally
 group :development do
   gem "pry"
